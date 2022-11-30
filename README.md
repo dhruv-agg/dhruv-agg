@@ -1,11 +1,12 @@
 - 👋 Hi, I’m @dhruv-agg
-- 🕴🏽 I work at McKinsey & Company
+- 💼 I work at McKinsey & Company
 - 👀 I’m interested in Data Science, Machine Learning & Big Data
 - 🌱 I’m currently learning Pyspark
 - 📚 Checkout my free course on "Python for Data Science" : https://unacademy.com/course/python-for-data-science/DXAFYQY5
 - 📫 How to reach me
   - 🌐 Website: https://dhruvsblog.netlify.app/
-  - 👨🏻‍🏫 Educator : https://unacademy.com/@deeagee9976 
+  - 🖊️ Blog: https://dhruvsblog.netlify.app/blog
+  - 👨🏻‍🏫 Educator Profile : https://unacademy.com/@deeagee9976 
   - 🔗 LinkedIn : https://www.linkedin.com/in/dhruv-agg94/
   - 📧 Email : dhruv_agg@protonmail.com
   - 📸 Instagram : https://www.instagram.com/dhruv_agg.94/
