@@ -1,14 +1,14 @@
+
 ### 👋 Hi, I’m Dhruv
 
-#### 💼 I work at McKinsey & Company
+#### 💼 Product-focused Data Scientist. I work at McKinsey & Company
 
-#### 📚 Checkout my free course on ["Python for Data Science"](https://unacademy.com/course/python-for-data-science/DXAFYQY5)
+I worked at large-scale companies, so I enjoy getting my hands dirty and solving complex data-driven problems.
 
-#### I have technical experience and interest in
-- Data Lakes
-- Data Engineering
-- Data Science
-- Big Data
+- End-to-End designing of data driven solutions.
+- Production-level software & data tooling development. Projects involve data pipelining, object-oriented design/refactoring, integration-testing.
+- Experience with gigabyte-scale data handling techniques such as PySpark
+- Familiarity with developing spend analytics & knowledge management tools.
 
 <h3 align="left">Languages and Tools:</h3>
 <p align="left">
@@ -55,11 +55,13 @@
   </a>
 </p>
 
-### My Hobbies and interests
+#### 📚 Checkout my free course on ["Python for Data Science"](https://unacademy.com/course/python-for-data-science/DXAFYQY5)
 
-- Gardening
-- Finance
-- International Relations
+#### I have technical experience and interest in
+- Data Lakes
+- Data Engineering
+- Data Science
+- Big Data
 
 #### 📫 How to reach me
 
@@ -68,8 +70,6 @@
 - 👨🏻‍🏫 Educator Profile : https://unacademy.com/@deeagee9976
 - 🔗 LinkedIn : https://www.linkedin.com/in/dhruv-agg94/
 - 📧 Email : dhruv_agg@protonmail.com
-- 📸 Instagram : https://www.instagram.com/dhruv_agg.94/
-- 🐦 Twitter : https://twitter.com/dhruv_agg
 - ⁉️ Quora : https://www.quora.com/profile/Dhruv-Aggarwal-31
 
 <!---
